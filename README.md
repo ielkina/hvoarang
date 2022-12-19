@@ -17,7 +17,7 @@
 
 ### Follow Me
 
-[![YouTube](align="left" alt="Telegram" width="32px" https://github.com/hvoarang/hvoarang/blob/main/assets/YT.png)](https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ)
+[![YouTube](https://github.com/hvoarang/hvoarang/blob/main/assets/YT.png)](https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ)
 
 <img align="left" alt="YouTube" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/YT.png" href="https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ"/>
 <img align="left" alt="Telegram" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/tg.png" />
