@@ -18,9 +18,7 @@
 ### Follow Me
 
 [![YouTube](https://github.com/hvoarang/hvoarang/blob/main/assets/123123.png)](https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ)
-
-<img align="left" alt="YouTube" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/YT.png" href="https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ"/>
-<img align="left" alt="Telegram" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/tg.png" />
-<img align="left" alt="Instagram" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/inst.png" />
-<img align="left" alt="LinkedIn" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/in.png" />
-<img align="left" alt="Facebook" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/fb.png" />
+[![Telegram](https://github.com/hvoarang/hvoarang/blob/main/assets/123123.png)](https://t.me/hvoarang)
+[![Instagram](https://github.com/hvoarang/hvoarang/blob/main/assets/123123.png)](https://www.instagram.com/hvoarang/)
+[![LinkedIn](https://github.com/hvoarang/hvoarang/blob/main/assets/123123.png)](https://www.linkedin.com/in/hvoarang-undefined-50623225b/)
+[![Facebook](https://github.com/hvoarang/hvoarang/blob/main/assets/123123.png)](https://www.facebook.com/hvoarang)
