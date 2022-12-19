@@ -5,6 +5,10 @@
 ### Helpful YouTube Channel/Videos
 
 - [Learn HTML/CSS - lesson one](https://www.youtube.com/watch?v=z3GS5oYGq5U&t=2s)
+- [Learn HTML/CSS - lesson two](https://www.youtube.com/watch?v=V1_2mV48lOk)
+- [Learn CSS - FlexBox - Part one](https://www.youtube.com/watch?v=EO8hH_2OwCU&t=34s)
+- [Learn CSS - FlexBox - Part two](https://www.youtube.com/watch?v=uPYUgipiFcM&t=316s)
+- [Learn Js - Full Playlist](https://www.youtube.com/watch?v=yJcCKuxfb2o&list=PLM6XATa8CAG7DDIBjNVd78Fv5Ueo930IV)
 
 ### Language and Tools
 
