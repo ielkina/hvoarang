@@ -4,8 +4,7 @@
 
 ### Helpful YouTube Channel/Videos
 
-- [![Header](https://github.com/hvoarang/hvoarang/blob/main/assets/hero.png)](https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ)
-- [!Learn HTML/CSS - lesson one](https://www.youtube.com/watch?v=z3GS5oYGq5U&t=2s)
+- [Learn HTML/CSS - lesson one](https://www.youtube.com/watch?v=z3GS5oYGq5U&t=2s)
 
 ### Language and Tools
 
