@@ -18,7 +18,7 @@
 ### Follow Me
 
 [![YouTube](https://github.com/hvoarang/hvoarang/blob/main/assets/YT.png)](https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ)
-[![Telegram](https://github.com/hvoarang/hvoarang/blob/main/assets/123123.png)](https://t.me/hvoarang)
-[![Instagram](https://github.com/hvoarang/hvoarang/blob/main/assets/123123.png)](https://www.instagram.com/hvoarang/)
+[![Telegram](https://github.com/hvoarang/hvoarang/blob/main/assets/tg.png)](https://t.me/hvoarang)
+[![Instagram](https://github.com/hvoarang/hvoarang/blob/main/assets/inst.png)](https://www.instagram.com/hvoarang/)
 [![LinkedIn](https://github.com/hvoarang/hvoarang/blob/main/assets/123123.png)](https://www.linkedin.com/in/hvoarang-undefined-50623225b/)
-[![Facebook](https://github.com/hvoarang/hvoarang/blob/main/assets/123123.png)](https://www.facebook.com/hvoarang)
+[![Facebook](https://github.com/hvoarang/hvoarang/blob/main/assets/fb.png)](https://www.facebook.com/hvoarang)
