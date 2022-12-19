@@ -2,6 +2,10 @@
 
 ## About me
 
+- Hi my name is Denys and i'm beginner in IT
+- I like to study
+- Current time learning HTML/CSS/Js
+
 ### Helpful YouTube Channel/Videos
 
 - [Learn HTML/CSS - lesson one](https://www.youtube.com/watch?v=z3GS5oYGq5U&t=2s)
