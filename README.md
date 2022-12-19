@@ -2,10 +2,12 @@
 
 ## About me
 
-### Helpful YouTube Videos
+### Helpful YouTube Channel/Videos
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+```
+- [![Header](https://github.com/hvoarang/hvoarang/blob/main/assets/hero.png)](https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ)
+- [!Learn HTML/CSS - lesson one](https://www.youtube.com/watch?v=z3GS5oYGq5U&t=2s)
+```
 
 ### Language and Tools
 
