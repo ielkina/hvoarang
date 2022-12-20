@@ -26,7 +26,7 @@
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="PS" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/ps.png" />
 
-### Follow Me
+<!-- ### Follow Me
 
 [![YouTube](https://github.com/hvoarang/hvoarang/blob/main/assets/YT.png)](https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ)
 [![Telegram](https://github.com/hvoarang/hvoarang/blob/main/assets/tg.png)](https://t.me/hvoarang)
@@ -36,4 +36,4 @@
 
 ### Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvoarang) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvoarang&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvoarang) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvoarang&layout=compact) -->
