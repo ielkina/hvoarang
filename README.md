@@ -1,11 +1,15 @@
 [![Header](https://github.com/hvoarang/hvoarang/blob/main/assets/hero.png)](https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ)
 
-## About me
+## About me and my practic task
 
 - Hi my name is Denys and i'm beginner in IT
 - I like to study
 - In current time learning HTML/CSS/Js
 - Devote a lot of time to read and sports
+
+- [GoCorona](https://htmlpreview.github.io/?https://github.com/hvoarang/firstSite/blob/main/html/index.html)
+- [Moda lWindow](https://hvoarang.github.io/modal-window/)
+- [WebStudio](https://hvoarang.github.io/hvoarang-goit-markup-hw-08/)
 
 ### Helpful YouTube Channel/Videos
 
