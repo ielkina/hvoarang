@@ -7,9 +7,13 @@
 - In current time learning HTML/CSS/Js
 - Devote a lot of time to read and sports
 
+---
+
 - [GoCorona](https://htmlpreview.github.io/?https://github.com/hvoarang/firstSite/blob/main/html/index.html)
 - [Moda lWindow](https://hvoarang.github.io/modal-window/)
 - [WebStudio](https://hvoarang.github.io/hvoarang-goit-markup-hw-08/)
+
+---
 
 ### Helpful YouTube Channel/Videos
 
