@@ -36,6 +36,8 @@
 [![LinkedIn](https://github.com/hvoarang/hvoarang/blob/main/assets/in.png)](https://www.linkedin.com/in/hvoarang-undefined-50623225b/)
 [![Facebook](https://github.com/hvoarang/hvoarang/blob/main/assets/fb.png)](https://www.facebook.com/hvoarang)
 
+---
+
 ### Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvoarang) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvoarang&layout=compact)
