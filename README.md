@@ -33,3 +33,7 @@
 [![Instagram](https://github.com/hvoarang/hvoarang/blob/main/assets/inst.png)](https://www.instagram.com/hvoarang/)
 [![LinkedIn](https://github.com/hvoarang/hvoarang/blob/main/assets/in.png)](https://www.linkedin.com/in/hvoarang-undefined-50623225b/)
 [![Facebook](https://github.com/hvoarang/hvoarang/blob/main/assets/fb.png)](https://www.facebook.com/hvoarang)
+
+### Status
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hvoarang=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
