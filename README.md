@@ -27,7 +27,7 @@
 <img alt="Figma" width="32px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
 <img align="left" alt="PS" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/ps.png" />
 <img align="left" alt="Zeplin" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/zeplin.png" />
-<img align="right" alt="Gulp" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/gulp.png" />
+<img align="left" alt="Gulp" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/gulp.png" />
 
 ### Follow Me
 
