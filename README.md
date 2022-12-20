@@ -15,7 +15,7 @@
 - [Learn CSS - FlexBox - Part two](https://www.youtube.com/watch?v=uPYUgipiFcM&t=316s)
 - [Learn Js - Full Playlist](https://www.youtube.com/watch?v=yJcCKuxfb2o&list=PLM6XATa8CAG7DDIBjNVd78Fv5Ueo930IV)
 
-### Language and Tools
+## Language and Tools
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
