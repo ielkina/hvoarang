@@ -27,18 +27,14 @@
 <img align="left" alt="PS" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/ps.png" />
 <img align="left" alt="Gulp" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/gulp.png" />
 <img align="left" alt="Zeplin" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/zeplin.png" />
-...
----
 
-### Follow Me
+## Follow Me
 
 [![YouTube](https://github.com/hvoarang/hvoarang/blob/main/assets/YT.png)](https://www.youtube.com/channel/UCSA36ZU0f8_B0U8uamFn5OQ)
 [![Telegram](https://github.com/hvoarang/hvoarang/blob/main/assets/tg.png)](https://t.me/hvoarang)
 [![Instagram](https://github.com/hvoarang/hvoarang/blob/main/assets/inst.png)](https://www.instagram.com/hvoarang/)
 [![LinkedIn](https://github.com/hvoarang/hvoarang/blob/main/assets/in.png)](https://www.linkedin.com/in/hvoarang-undefined-50623225b/)
 [![Facebook](https://github.com/hvoarang/hvoarang/blob/main/assets/fb.png)](https://www.facebook.com/hvoarang)
-
----
 
 ### Status
 
