@@ -4,7 +4,8 @@
 
 - Hi my name is Denys and i'm beginner in IT
 - I like to study
-- Current time learning HTML/CSS/Js
+- In current time learning HTML/CSS/Js
+- Devote a lot of time to read and sports
 
 ### Helpful YouTube Channel/Videos
 
