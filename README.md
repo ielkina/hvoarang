@@ -10,7 +10,7 @@
 ##
 
 - [GoCorona](https://htmlpreview.github.io/?https://github.com/hvoarang/firstSite/blob/main/html/index.html)
-- [Moda lWindow](https://hvoarang.github.io/modal-window/)
+- [Modal Window](https://hvoarang.github.io/modal-window/)
 - [WebStudio](https://hvoarang.github.io/hvoarang-goit-markup-hw-08/)
 
 ---
