@@ -12,6 +12,7 @@
 - [GoCorona](https://htmlpreview.github.io/?https://github.com/hvoarang/firstSite/blob/main/html/index.html)
 - [Modal Window](https://hvoarang.github.io/modal-window/)
 - [WebStudio](https://hvoarang.github.io/hvoarang-goit-markup-hw-08/)
+- [Parcel Clean Build](https://hvoarang.github.io/parcel-clean-build/)
 
 ---
 
