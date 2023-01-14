@@ -9,10 +9,10 @@
 
 ##
 
-- [Cocktails](https://hvoarang.github.io/goit-js-team-project/) / [Files](https://github.com/hvoarang/goit-js-team-project))
-- [GoCorona](https://htmlpreview.github.io/?https://github.com/hvoarang/firstSite/blob/main/html/index.html)
-- [Modal Window](https://hvoarang.github.io/modal-window/)
-- [WebStudio](https://hvoarang.github.io/hvoarang-goit-markup-hw-08/)
+- [Cocktails](https://hvoarang.github.io/goit-js-team-project/) / [Files](https://github.com/hvoarang/goit-js-team-project)
+- [GoCorona](https://htmlpreview.github.io/?https://github.com/hvoarang/firstSite/blob/main/html/index.html) / [Files](https://github.com/hvoarang/firstSite)
+- [Modal Window](https://hvoarang.github.io/modal-window/) / [Files](https://github.com/hvoarang/modal-window)
+- [WebStudio](https://hvoarang.github.io/hvoarang-goit-markup-hw-08/) / [Files](https://github.com/hvoarang/hvoarang-goit-markup-hw-08)
 - [Parcel Clean Build](https://github.com/hvoarang/parcel-clean-build/archive/refs/heads/main.zip) / [Files](https://github.com/hvoarang/parcel-clean-build)
 
 ---
