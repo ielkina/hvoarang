@@ -10,6 +10,7 @@
 ##
 
 - [Cocktails](https://hvoarang.github.io/goit-js-team-project/) / [Files](https://github.com/hvoarang/goit-js-team-project)
+- [IceCream](https://vishpoly.github.io/alliance//) / [Files](https://github.com/VishPoly/alliance)
 - [GoCorona](https://hvoarang.github.io/firstSite/) / [Files](https://github.com/hvoarang/firstSite)
 - [Modal Window](https://hvoarang.github.io/modal-window/) / [Files](https://github.com/hvoarang/modal-window)
 - [WebStudio](https://hvoarang.github.io/hvoarang-goit-markup-hw-08/) / [Files](https://github.com/hvoarang/hvoarang-goit-markup-hw-08)
