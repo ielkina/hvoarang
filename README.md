@@ -10,11 +10,11 @@
 ##
 
 - [Cocktails](https://hvoarang.github.io/goit-js-team-project/) / [Files](https://github.com/hvoarang/goit-js-team-project) - HTML/CSS/JS
-- [PhoneBook](https://hvoarang.github.io/goit-react-hw-08-phonebook/) / [Files](https://github.com/hvoarang/goit-react-hw-08-phonebook)
-- [IceCream](https://vishpoly.github.io/alliance/) / [Files](https://github.com/VishPoly/alliance)
-- [GoCorona](https://hvoarang.github.io/firstSite/) / [Files](https://github.com/hvoarang/firstSite)
-- [Modal Window](https://hvoarang.github.io/modal-window/) / [Files](https://github.com/hvoarang/modal-window)
-- [WebStudio](https://hvoarang.github.io/hvoarang-goit-markup-hw-08/) / [Files](https://github.com/hvoarang/hvoarang-goit-markup-hw-08)
+- [PhoneBook](https://hvoarang.github.io/goit-react-hw-08-phonebook/) / [Files](https://github.com/hvoarang/goit-react-hw-08-phonebook) - React
+- [IceCream](https://vishpoly.github.io/alliance/) / [Files](https://github.com/VishPoly/alliance) - HTML/CSS
+- [GoCorona](https://hvoarang.github.io/firstSite/) / [Files](https://github.com/hvoarang/firstSite) - HTML/CSS
+- [Modal Window](https://hvoarang.github.io/modal-window/) / [Files](https://github.com/hvoarang/modal-window) - HTML/CSS/JS
+- [WebStudio](https://hvoarang.github.io/hvoarang-goit-markup-hw-08/) / [Files](https://github.com/hvoarang/hvoarang-goit-markup-hw-08) - HTML/CSS
 - [Parcel Clean Build](https://github.com/hvoarang/parcel-clean-build/archive/refs/heads/main.zip) / [Files](https://github.com/hvoarang/parcel-clean-build) / [Tutorial](https://github.com/hvoarang/parcel-clean-build/blob/main/README.md)
 
 ---
