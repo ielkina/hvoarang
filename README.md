@@ -14,6 +14,7 @@
 - [IceCream](https://vishpoly.github.io/alliance/) / [Files](https://github.com/VishPoly/alliance) - HTML/SASS
 - [GoCorona](https://hvoarang.github.io/firstSite/) / [Files](https://github.com/hvoarang/firstSite) - HTML/CSS
 - [Modal Window](https://hvoarang.github.io/modal-window/) / [Files](https://github.com/hvoarang/modal-window) - HTML/SASS/JS
+- [WebStudio](https://hvoarang.github.io/hvoarang-goit-markup-hw-08/) / [Files](https://github.com/hvoarang/hvoarang-goit-markup-hw-08) - HTML/SASS
 - [XZone](https://hvoarang.github.io/XZone/) / [Files](https://github.com/hvoarang/XZone) - HTML/SASS
 - [Parcel Clean Build](https://github.com/hvoarang/parcel-clean-build/archive/refs/heads/main.zip) / [Files](https://github.com/hvoarang/parcel-clean-build) / [Tutorial](https://github.com/hvoarang/parcel-clean-build/blob/main/README.md)
 
