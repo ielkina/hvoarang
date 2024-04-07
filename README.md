@@ -2,7 +2,7 @@
 
 ## About me and my practic task
 
-- Hi my name is Denys and i'm beginner in IT 123123123
+- Hi my name is Denys and i'm beginner in IT
 - I like to study
 - In current time learning HTML/CSS/Js
 - Devote a lot of time to read and sports
