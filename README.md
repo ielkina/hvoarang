@@ -59,6 +59,7 @@
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvoarang)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvoarang&show_icons=true&theme=radical)
 
 ##
 
