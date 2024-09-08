@@ -65,5 +65,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvoarang&show_icons=true&theme=radical)
 
 ##
-
-[![Readme Card](https://github-read-stats.vercel.app/api/pin/?hvoarang=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
