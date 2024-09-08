@@ -58,9 +58,8 @@
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvoarang)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvoarang&show_icons=true&theme=radical)
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvoarang&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvoarang&show_icons=true&theme=radical)
