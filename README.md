@@ -41,17 +41,17 @@
 
 ## Language and Tools
 
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/js.png" />
-<img align="left" alt="HTML5" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/css.png" />
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Git" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/github.png" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="PS" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/ps.png" />
-<img align="left" alt="Gulp" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/gulp.png" />
-<img align="left" alt="Zeplin" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/zeplin.png" />
-<img align="left" alt="Figma" width="32px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/figma.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/js.png" />
+<img align="left" alt="HTML5" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/css.png" />
+<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Git" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/github.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="PS" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/ps.png" />
+<img align="left" alt="Gulp" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/gulp.png" />
+<img align="left" alt="Zeplin" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/zeplin.png" />
+<img align="left" alt="Figma" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/figma.png" />
 ...
 
 ---
