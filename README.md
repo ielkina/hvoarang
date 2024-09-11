@@ -53,9 +53,7 @@
 <img align="left" alt="Zeplin" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/zeplin.png" />
 <img align="left" alt="Figma" width="30px" src="https://github.com/hvoarang/hvoarang/blob/main/assets/figma.png" />
 ...
-
 ---
-
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvoarang&show_icons=true&theme=radical)
