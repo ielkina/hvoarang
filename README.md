@@ -10,6 +10,7 @@
 ##
 
 - [Portfolio](https://hvoarang.github.io/portfolio/) / [Files](https://github.com/hvoarang/portfolio) - HTML/SASS/JS
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hvoarang&repo=portfolio)](https://github.com/hvoarang/portfolio)
 - [Cocktails](https://hvoarang.github.io/goit-js-team-project/) / [Files](https://github.com/hvoarang/goit-js-team-project) - HTML/SASS/JS
 - [PhoneBook](https://hvoarang.github.io/goit-react-hw-08-phonebook/) / [Files](https://github.com/hvoarang/goit-react-hw-08-phonebook) - React/JSX
 - [IceCream](https://vishpoly.github.io/alliance/) / [Files](https://github.com/VishPoly/alliance) - HTML/SASS
